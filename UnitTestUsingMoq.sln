@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureProject", "UnitTestUsingMoq\FeatureProject.csproj", "{8739B0C8-2404-43EE-87D5-CB7D38C2B35A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureProject", "FeatureProject\FeatureProject.csproj", "{8739B0C8-2404-43EE-87D5-CB7D38C2B35A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{90587C29-2F71-4489-A8DA-E2657B13920D}"
 EndProject
