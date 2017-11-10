@@ -7,8 +7,8 @@
     <ProjectGuid>{8739B0C8-2404-43EE-87D5-CB7D38C2B35A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnitTestUsingMoq</RootNamespace>
-    <AssemblyName>UnitTestUsingMoq</AssemblyName>
+    <RootNamespace>FeatureProject</RootNamespace>
+    <AssemblyName>FeatureProject</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

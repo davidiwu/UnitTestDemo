@@ -70,9 +70,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\UnitTestUsingMoq\UnitTestUsingMoq.csproj">
+    <ProjectReference Include="..\UnitTestUsingMoq\FeatureProject.csproj">
       <Project>{8739b0c8-2404-43ee-87d5-cb7d38c2b35a}</Project>
-      <Name>UnitTestUsingMoq</Name>
+      <Name>FeatureProject</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

@@ -1,8 +1,7 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using FeatureProject;
 using Moq;
 using NUnit.Framework;
-using UnitTestUsingMoq;
 using Assert = NUnit.Framework.Assert;
 
 namespace UnitTestProject
